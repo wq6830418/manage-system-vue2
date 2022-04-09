@@ -73,6 +73,7 @@ export default {
   },
   mounted() {
     // 左侧菜单，在leftMenuList数组中添加对象，实现添加新菜单
+    //我测试下我的git
     (this.leftMenuList = [
       {
         path: "/permiss",
